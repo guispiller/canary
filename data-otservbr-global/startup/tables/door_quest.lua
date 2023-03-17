@@ -813,6 +813,24 @@ QuestDoorAction = {
 			{x = 32191, y = 31823, z = 8}
 		}
 	},
+	[Storage.Quest.U12_00.TheDreamCourts.HauntedHouseAccess] = {
+		itemId = false,
+		itemPos = {
+			{ x = 32700, y = 32244, z = 9 },
+			{ x = 32700, y = 32255, z = 9 },
+			{ x = 32700, y = 32275, z = 8 },
+			{ x = 33088, y = 32388, z = 8 },
+			{ x = 32671, y = 32652, z = 7 },
+			{ x = 32606, y = 32629, z = 9 }
+		}
+	},
+	[Storage.Quest.U12_00.TheDreamCourts.BuriedCathedralAccess] = {
+		itemId = false,
+		itemPos = {
+			{ x = 32719, y = 32264, z = 8 },
+			{ x = 32728, y = 32280, z = 8 }
+		}
+	},
 	[Storage.Quest.U12_20.GraveDanger.Bosses.KingZelosDoor] = {
 		itemId = false,
 		itemPos = {{x = 32173, y = 31922, z = 8}}

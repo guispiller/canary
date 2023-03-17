@@ -300,6 +300,8 @@ local questTable = {
 	{storage = Storage.ForgottenKnowledge.AccessFire, storageValue = 1},
 	{storage = Storage.ForgottenKnowledge.AccessIce, storageValue = 1},
 	{storage = Storage.ForgottenKnowledge.AccessGolden, storageValue = 1},
+	{storage = Storage.Quest.U12_00.TheDreamCourts.HauntedHouseAccess, storageValue = 1},
+	{storage = Storage.Quest.U12_00.TheDreamCourts.BuriedCathedralAccess, storageValue = 1},
 	{storage = Storage.Quest.U12_00.TheDreamCourts.AccessDoors, storageValue = 1},
 	{storage = Storage.Quest.U12_60.APiratesTail.TentuglyDoor, storageValue = 1},
 	{storage = Storage.Quest.U12_70.AdventuresOfGalthen.AccessDoor, storageValue = 1},
